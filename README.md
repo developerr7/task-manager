@@ -37,7 +37,7 @@ Follow these instructions to set up and run the app on your local machine.
 Before you begin, ensure you have the following installed:
 
 - **Flutter SDK** - Required to build and run the app.
-- **Android or ios emulator - Required to test and run the app.
+- **Android or ios emulator** - Required to test and run the app.
 - **Dart SDK** - Provides the Dart programming language environment.
 - **An IDE** - Such as Visual Studio Code or Android Studio, configured for Flutter development.
 
